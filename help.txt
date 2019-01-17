@@ -1,3 +1,7 @@
-Use thsi command to run
+Use this command to run
 
 node node_modules/webpack/bin/webpack.js
+npm start
+some more
+
+https://www.codeproject.com/Articles/1210229/%2FArticles%2F1210229%2FBeginning-ReactJS-with-TypeScript-Part-I-Setting-u
